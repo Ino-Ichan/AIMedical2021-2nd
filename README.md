@@ -47,7 +47,7 @@ AIMedical2021
 |   |-- exp001
 |   |-- exp002
 |   |-- exp004
-|   |-- exp004
+|   |-- exp009
 |   `-- exp011   
 `-- run.sh
 ```
